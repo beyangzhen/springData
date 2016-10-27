@@ -1,0 +1,8 @@
+springData helloworld:
+ 1. 加入jar包
+ 	a.springData相关的包，2个
+ 	b.springmvc必备的包
+ 	c.hibernate的包  + jpa的包
+ 	d.c3p0的相关的包
+ 	e.数据库连接的包
+ 	f.slf4j包
